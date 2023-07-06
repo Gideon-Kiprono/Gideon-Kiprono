@@ -11,5 +11,5 @@
 ----------------------------------------------------------------------------------------------------------------------------
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=GideonKipronoPodo&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GideonKipronoPodo&hide=jupyternotebook,dart,djang,scss,pythonless&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GideonKipronoPodo&hide=jupyter+notebook,dart,djang,scss,pythonless&theme=radical">
 </p>
