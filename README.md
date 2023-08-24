@@ -5,11 +5,11 @@
 
 ### Github Streak
 ----------------------------------------------------------------------------------------------------------------------------
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GideonKipronoPodo&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gideon-Kiprono&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ### Github Stats
 ----------------------------------------------------------------------------------------------------------------------------
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=GideonKipronoPodo&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GideonKipronoPodo&hide=jupyter+notebook,dart,djang,scss,pythonless&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Gideon-Kiprono&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Kiprono&hide=jupyter+notebook,dart,djang,scss,pythonless&theme=radical">
 </p>
