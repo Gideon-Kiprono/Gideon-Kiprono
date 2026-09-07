@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=4000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Gideon+Kiprono+Kipkemoi.;I+am+a+Data+Analyst.;My+Tech+stack:+EXCEL,+PowerBI,+SQL+&+PYTHON.;Also,+have+skills+in+Web-Development+:+MERN+Stack+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=4000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Gideon+Kiprono+Kipkemoi.;I+am+a+Data+Analyst.;My+Tech+stack:+EXCEL,+PowerBI,+SQL,+PYTHON.;Also,+have+skills+in+Web-Development+:+MERN+Stack+.)](https://git.io/typing-svg)
 ----------------------------------------------------------------------------------------------------------------------------
 
 ### Github Streak
