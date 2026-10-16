@@ -5,8 +5,8 @@
 
 ### Github Streak
 ----------------------------------------------------------------------------------------------------------------------------
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gideon-Kiprono&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gideon-Kiprono)](https://git.io/streak-stats)
 ### Github Stats
 ----------------------------------------------------------------------------------------------------------------------------
 <p align = "center">
