@@ -5,7 +5,7 @@
 
 ### Github Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gideon-Kiprono)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 ----------------------------------------------------------------------------------------------------------------------------
 
 
